@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minazor&label=Profile%20views&color=0e75b6&style=flat" alt="minazor" /> </p>
 
 - 🌱 I’m currently learning **Machine** (you know what i mean)
+  
+- 🔍 Passionate about Machine Learning and Data Analysis. Continuously exploring new techniques and
+  optimizing models to derive insights from data. Let's collaborate and transform raw data into meaningful stories!
 
 - 📫 How to reach me **minainal@outlook.com**
 
