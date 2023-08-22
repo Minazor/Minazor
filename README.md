@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Machine** (you know what i mean)
   
-- 🔍 Passionate about Machine Learning and Data Analysis. Continuously exploring new techniques and
-  optimizing models to derive insights from data. Let's collaborate and transform raw data into meaningful stories!
+- 🔍 Just embarked on a journey in Machine Learning and Data Analysis. Eagerly learning and striving to enhance my skills in these fields.
 
 - 📫 How to reach me **minainal@outlook.com**
 
