@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minazor&label=Profile%20views&color=0e75b6&style=flat" alt="minazor" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine** (you know what i mean)
 
 - 📫 How to reach me **minainal@outlook.com**
 
